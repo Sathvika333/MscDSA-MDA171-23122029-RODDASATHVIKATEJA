@@ -1,0 +1,11 @@
+Dish name	:	biryani
+Price of the dish	:	210
+Quantity of the dish	:	1
+Total Amount	:	210
+Name of the customer	:	sravani
+Phone number	:	870742059Dish name	:	egg rice
+cost of the dish	:	100
+Quantity of the dish	:	3
+Total Amount	:	300
+Name of the customer	:	teju
+Phone number	:	9515358738
