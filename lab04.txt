@@ -8,4 +8,14 @@ cost of the dish	:	100
 Quantity of the dish	:	3
 Total Amount	:	300
 Name of the customer	:	teju
-Phone number	:	9515358738
+Phone number	:	9515358738Dish name	:	chicken fry
+cost of the dish	:	
+Quantity of the dish	:	
+Total Amount	:	
+Name of the customer	:	
+Phone number	:	Dish name	:	chicken fry,jfjf,grkrf,hrhrfjn,gfehrfh,gehfgj
+cost of the dish	:	54,554,6564,956,5649,5565
+Quantity of the dish	:	2,5,8,8,6,,2,5
+Total Amount	:	1000
+Name of the customer	:	hdgfgg
+Phone number	:	9562486252
